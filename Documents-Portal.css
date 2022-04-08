@@ -8,6 +8,7 @@
 
 .u-section-1 .u-text-1 {
   font-size: 3rem;
+  font-weight: 700;
   margin: 108px auto 0;
 }
 
@@ -91,12 +92,6 @@
 
 .u-section-1 .u-text-6 {
   margin: -64px 0 0 115px;
-}
-
-@media (max-width: 1199px) {
-  .u-section-1 .u-text-1 {
-    font-weight: normal;
-  }
 }
 
 @media (max-width: 767px) {
