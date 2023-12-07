@@ -428,23 +428,13 @@
 }
 
 .u-section-3 .u-container-layout-1 {
-  padding: 20px 0 0;
+  padding: 18px 0;
 }
 
 .u-section-3 .u-text-1 {
   font-weight: 700;
-  margin: 0 60px;
-}
-
-.u-section-3 .u-text-2 {
-  font-size: 2.25rem;
-  margin: 20px 60px 0;
-}
-
-.u-section-3 .u-shape-1 {
-  width: 95px;
-  height: 56px;
-  margin: -56px 150px 0 auto;
+  font-size: 3.75rem;
+  margin: 0 36px;
 }
 
 .u-section-3 .u-layout-cell-2 {
@@ -452,11 +442,31 @@
 }
 
 .u-section-3 .u-container-layout-2 {
-  padding: 10px 50px 30px;
+  padding: 0 47px;
 }
 
-.u-section-3 .u-form-1 {
-  margin: 0;
+.u-section-3 .u-social-icons-1 {
+  height: 189px;
+  min-height: 16px;
+  width: 189px;
+  min-width: 16px;
+  margin: -21px auto 0;
+}
+
+.u-section-3 .u-icon-1 {
+  height: 107px;
+  color: rgb(59, 89, 152) !important;
+}
+
+.u-section-3 .u-text-2 {
+  font-size: 2.25rem;
+  margin: 52px 13px 0;
+}
+
+.u-section-3 .u-shape-1 {
+  width: 95px;
+  height: 56px;
+  margin: -56px 76px 0 auto;
 }
 
 .u-section-3 .u-layout-cell-3 {
@@ -488,17 +498,17 @@
   }
 
   .u-section-3 .u-text-1 {
-    margin-left: 10px;
-    margin-right: 10px;
-  }
-
-  .u-section-3 .u-text-2 {
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-3 .u-layout-cell-2 {
     min-height: 309px;
+  }
+
+  .u-section-3 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-3 .u-layout-cell-3 {
@@ -517,16 +527,6 @@
 
   .u-section-3 .u-layout-cell-1 {
     min-height: 100px;
-  }
-
-  .u-section-3 .u-text-1 {
-    margin-left: 0;
-    margin-right: 0;
-  }
-
-  .u-section-3 .u-text-2 {
-    margin-left: 0;
-    margin-right: 0;
   }
 
   .u-section-3 .u-layout-cell-2 {
@@ -557,13 +557,17 @@
     padding-right: 20px;
   }
 
-  .u-section-3 .u-text-2 {
-    font-size: 1rem;
+  .u-section-3 .u-text-1 {
+    font-size: 2.25rem;
   }
 
   .u-section-3 .u-container-layout-2 {
     padding-left: 10px;
     padding-right: 10px;
+  }
+
+  .u-section-3 .u-text-2 {
+    font-size: 1rem;
   }
 
   .u-section-3 .u-layout-cell-3 {
@@ -583,6 +587,10 @@
 @media (max-width: 575px) {
   .u-section-3 .u-sheet-1 {
     min-height: 636px;
+  }
+
+  .u-section-3 .u-text-1 {
+    font-size: 1.875rem;
   }
 
   .u-section-3 .u-layout-cell-3 {
